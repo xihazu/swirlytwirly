@@ -1,4 +1,7 @@
-img {
+.icon {
+    width: 70px;
+}
+.big-image {
     width: 250px;
 }
 h1 {
