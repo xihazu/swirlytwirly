@@ -1,0 +1,11 @@
+img {
+    width: 250px;
+}
+h1 {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}  body {
+    text-align: center;
+    font-family: 'Arial';
+    background: pink;
+    color: rgb(44, 20, 10);
+}
